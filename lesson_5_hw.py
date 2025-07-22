@@ -3,10 +3,10 @@ designations = []
 codes = []
 
 for i in data:
-    if i in ["O!", "Megacom", "Beeline", "Katel","Fonex"]:
-        designations.append(i)
-    else:
+    if i.isdigit():
         codes.append(i)
+    else:
+        designations.append(i)
 
 operators = dict(zip(designations, codes))
 operators.pop('Katel')
