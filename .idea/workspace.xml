@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="894f8e2f-0e04-4e9c-9530-a55f7dbaa0b9" name="Changes" comment="" />
+    <list default="true" id="894f8e2f-0e04-4e9c-9530-a55f7dbaa0b9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Menti_1_Month.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Menti_1_Month.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_1_hw.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_1_hw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2_hw.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2_hw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_3_hw.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_3_hw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_4_hw.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4_hw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_5_hw.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_5_hw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_6_hw.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_6_hw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_7_hw.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_7_hw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_8_hw.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_8_hw.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +34,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2zzMum5XrK8hSc3gLSBQ1uOZ8z4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,9 +45,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.lesson_1_hw.executor": "Run",
+    "Python.lesson_2_hw.executor": "Run",
+    "Python.lesson_4_hw.executor": "Run",
+    "Python.lesson_7_hw.executor": "Run",
+    "Python.р.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/erzhanish/PycharmProjects/Menti_1_Month",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,8 +70,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-PY-251.26094.141" />
-        <option value="bundled-python-sdk-9f8e2b94138c-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26094.141" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PY-252.23892.515" />
+        <option value="bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515" />
       </set>
     </attachedChunks>
   </component>
@@ -63,10 +83,21 @@
       <option name="presentableId" value="Default" />
       <updated>1752729672380</updated>
       <workItem from="1752729673450" duration="1037000" />
+      <workItem from="1753799519184" duration="2456000" />
+      <workItem from="1753808213601" duration="156000" />
+      <workItem from="1755245706267" duration="3182000" />
+      <workItem from="1755341088018" duration="1000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Menti_1_Month$lesson_4_hw.coverage" NAME="lesson_4_hw Coverage Results" MODIFIED="1755249354087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Menti_1_Month$lesson_7_hw.coverage" NAME="lesson_7_hw Coverage Results" MODIFIED="1753800474625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Menti_1_Month$lesson_2_hw.coverage" NAME="lesson_2_hw Coverage Results" MODIFIED="1755248959256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Menti_1_Month$.coverage" NAME="р Coverage Results" MODIFIED="1753808264606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Menti_1_Month$lesson_1_hw.coverage" NAME="lesson_1_hw Coverage Results" MODIFIED="1755248804773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
